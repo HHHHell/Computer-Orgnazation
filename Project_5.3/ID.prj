@@ -1,0 +1,8 @@
+verilog work "Shifter.v"
+verilog work "RF.v"
+verilog work "NPC.v"
+verilog work "MUX_4_1_5bits.v"
+verilog work "MUX_4_1_32bits.v"
+verilog work "EXT.v"
+verilog work "CMP.v"
+verilog work "ID.v"
